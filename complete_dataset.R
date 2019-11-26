@@ -2,6 +2,7 @@
 # Convert 5-year datasets into yearly data
 # Created in R 3.5.0
 # By: Kristin Eccles
+# Must run bias_adjustment.R first
 ##########################################################
 
 #### Old Crow Adj ####
